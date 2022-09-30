@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">jokempo</string>
+    <string name="txtStone">Stone</string>
+    <string name="txtScissor">Scissor</string>
+    <string name="txtPaper">Paper</string>
+    <string name="txtBtnPlay">Let\'s Rock!!</string>
+    <string name="txtWin">YOU WIIIN !!!</string>
+    <string name="txtLose">You Lose! Try Again!!</string>
+    <string name="txtDraw">It draw! Try Again!!</string>
+</resources>
